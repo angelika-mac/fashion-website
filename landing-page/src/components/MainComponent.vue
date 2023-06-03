@@ -7,6 +7,7 @@
         <new-product-component></new-product-component>
         <recents-component-vue></recents-component-vue>
         <inspo-component></inspo-component>
+        <footer-component></footer-component>
     </div>
 </template>
 
@@ -18,8 +19,9 @@ import TrendingComponent from './TrendingComponent.vue';
 import NewProductComponent from './NewProductComponent.vue';
 import RecentsComponentVue from './RecentsComponent.vue';
 import InspoComponent from './InspoComponent.vue';
+import FooterComponent from './FooterComponent.vue';
 export default {
-  components: { NavBarComponent, HeroComponent, DealsComponent , TrendingComponent, NewProductComponent, RecentsComponentVue, InspoComponent},
+  components: { NavBarComponent, HeroComponent, DealsComponent , TrendingComponent, NewProductComponent, RecentsComponentVue, InspoComponent, FooterComponent},
 
 }
 </script>
