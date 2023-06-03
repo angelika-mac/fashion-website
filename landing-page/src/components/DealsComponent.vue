@@ -19,13 +19,10 @@
             </div>
         </div>
         <div id="excl-wrapper">
-            <img src="../assets/vip-sparkle.svg">
             <div id="excl-title">
-                BLACK FIRDAY ECLUSIVE
+                BLACK FRIDAY EXCLUSIVE <span id="excl-subtitle">free shipping on all orders for VIP 2 and up!</span>
             </div>
-            <div id="excl-subtitle">
-                free shipping on all orders for VIP 2 and up!
-            </div>
+            
             <div id="excl-button">
                 <button>SHOP NOW</button>
             </div>
@@ -63,7 +60,7 @@ data() {
 
 <style>
 #deals-component-main {
-    width: 100vw;
+    width: 103vw;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -124,8 +121,8 @@ data() {
 
 #excl-wrapper{
     height: 75px;
-    width: 100vw;
-    background-image: linear-gradient(90deg, rgba(0, 0, 0, 0) 13.54%, #000000 40.1%, #000000 100%);
+    width: 103vw;
+    background-image: url('../assets/bg.png');
     display: flex;
     align-items: center;
     gap: 240px;
@@ -137,13 +134,17 @@ data() {
     font-size: 32px;
     text-transform: uppercase;
     padding: 30px;
+    color: #fff;
 }
 
 #excl-subtitle{
     text-transform: uppercase;
     font-weight: 600;
     font-size: 18px;
-    color: #fff
+    color: #fff;
+    padding-left:100px;
+    text-align: center;
+
 }
 
 #excl-button > button {

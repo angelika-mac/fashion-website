@@ -74,7 +74,7 @@ export default {
 }
 
 #hero-misc {
-    width: 100vw;
+    width: 103vw;
     height: 650px;
     position: absolute;
     display: flex;
