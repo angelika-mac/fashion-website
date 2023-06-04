@@ -73,7 +73,7 @@ Make sure that you install the latest npm version
    ```sh
    git clone https://github.com/fuhlicity/fashion-website.git
    ```
-2. Open your terminal inside fashion-website/landing-page the install NPM packages
+2. Open your terminal inside `fashion-website/landing-page` the install NPM packages
    ```sh
    npm install
    ```
