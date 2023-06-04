@@ -153,6 +153,7 @@ data() {
     color: #000000;
     font-weight: 600;
     font-size: 18px;
+    cursor: pointer;
 }
 
 #excl-wrapper >img {

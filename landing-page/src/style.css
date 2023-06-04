@@ -28,4 +28,5 @@ body {
 button {
   
   font-family: 'Montserrat' !important;
+  cursor: pointer;
 }

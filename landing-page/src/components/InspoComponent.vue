@@ -80,4 +80,8 @@ font-size: 18px;
 color: #FFFFFF;
 padding: 10px 20px;
 }
+
+.inspo-item {
+    cursor: pointer;
+}
 </style>

@@ -12,6 +12,7 @@
                     <button>SHOP NOW</button>
                 </div>
             </div>
+            <div class="empty"></div>
         </div>
   </div>
 </template>
@@ -23,7 +24,10 @@ export default {
 </script>
 
 <style>
-
+.empty{
+    height: auto;
+    width: 50px;
+}
 
 #arrival-wrapper {
     margin-top: 50px;

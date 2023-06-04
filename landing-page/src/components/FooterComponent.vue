@@ -151,9 +151,15 @@ color: #000000;
 }
 .link-section > div{
     margin: 10px 0px;
+    cursor: pointer;
 }
 
 .link-section > .link-title{
     margin-bottom: 20px;
+    cursor: text;
+}
+
+.link-section >img {
+    cursor: pointer;
 }
 </style>

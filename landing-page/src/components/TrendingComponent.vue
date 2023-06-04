@@ -130,6 +130,7 @@ export default {
     width: 265px;
     height: 390px;
     padding: 20px;
+    cursor: pointer;
 
 }
 
@@ -159,5 +160,12 @@ font-size: 24px;
     font-weight: 600;
     font-size: 14px;
     color: #000000;
+    cursor: pointer;
+}
+
+
+.trend-tags:hover {
+    
+    border: 3px solid #000000 !important;
 }
 </style>
