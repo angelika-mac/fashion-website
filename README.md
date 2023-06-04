@@ -77,11 +77,10 @@ Make sure that you install the latest npm version
    ```sh
    npm install
    ```
-3. Then run a local server by executing this command
+3. Then run a local server by executing this command then follow the instructions displayed in your command line interface.
   ```sh
    npm run dev
    ```
-  Follow the instructions displayed in your command line interface
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
