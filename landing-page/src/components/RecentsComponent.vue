@@ -89,6 +89,7 @@ export default {
     padding: 20px;
     display: flex;
     flex-direction: column;
+    cursor: pointer;
 }
 
 .recent-price {
