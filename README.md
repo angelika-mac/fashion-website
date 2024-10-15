@@ -88,6 +88,6 @@ Make sure that you install the latest npm version
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/fuhlicity/fashion-website](https://github.com/fuhlicity/fashion-website)
+Project Link: [https://github.com/fuhlicity/fashion-website](https://github.com/angelika-mac/fashion-website)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
